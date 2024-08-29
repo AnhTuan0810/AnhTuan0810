@@ -8,7 +8,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
 
-[![Linkedin]([https://i.stack.imgur.com/gVE0j.png](https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000))](https://www.linkedin/) [![GitHub]([https://i.stack.imgur.com/tskMh.png](https://img.icons8.com/?size=100&id=12598&format=png&color=000000))]([https://github.com/uvipen](https://AnhTuan0810)/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/)
+[![Linkedin]((https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000))](https://www.linkedin/) [![GitHub]((https://img.icons8.com/?size=100&id=12598&format=png&color=000000))]((https://AnhTuan0810)/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/)
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
