@@ -1,6 +1,6 @@
 
 ### WELCOME TO MY PAGE 👋👋👋
-👋 Hi, I’m @AnhTuan0810 From VN<br>
+👋 Hi, I’m Anh Tuan From VN<br>
 ## 📫 How to reach me: 
 
 
