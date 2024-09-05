@@ -38,6 +38,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhTuan0810&repo=BookShoppingCart&theme=synthwave" />
 </a>
-
+<a href="https://github.com/AnhTuan0810/Portal.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhTuan0810&repo=Portal&theme=onedark" />
+</a>
 
 
