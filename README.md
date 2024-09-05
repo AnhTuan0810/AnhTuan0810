@@ -7,8 +7,11 @@
 ![Tuan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnhTuan0810&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 ### WELCOME TO MY PAGE 👋👋👋
 
+[![LinkedIn](https://img.icons8.com/material-outlined/100/000000/linkedin.png)](https://www.linkedin.com/in/AnhTuan0810)
+[![GitHub](https://img.icons8.com/material-outlined/100/000000/github.png)](https://github.com/AnhTuan0810)
+[![YouTube](https://img.icons8.com/material-outlined/100/000000/youtube-play.png)](https://www.youtube.com/channel/)
 
-[![Linkedin]((https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000))](https://www.linkedin/) [![GitHub]((https://img.icons8.com/?size=100&id=12598&format=png&color=000000))]((https://AnhTuan0810)/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/)
+
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
