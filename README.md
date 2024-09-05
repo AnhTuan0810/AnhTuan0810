@@ -23,8 +23,6 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
@@ -34,8 +32,12 @@
 </a>    
 <a href="https://github.com/AnhTuan0810/PhaoHoa-master.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhTuan0810&repo=PhaoHoa-master&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhTuan0810&repo=PhaoHoa-master&theme=dracula" />
 </a>  
+<a href="https://github.com/AnhTuan0810/BookShoppingCart.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhTuan0810&repo=BookShoppingCart&theme=synthwave" />
+</a>
 
 
 
