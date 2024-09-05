@@ -5,7 +5,7 @@
 
 
 ![Tuan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnhTuan0810&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-### WELCOME TO MY PAGE 👋👋👋
+
 
 [![LinkedIn](https://img.icons8.com/material-outlined/100/000000/linkedin.png)](https://www.linkedin.com/in/AnhTuan0810)
 [![GitHub](https://img.icons8.com/material-outlined/100/000000/github.png)](https://github.com/AnhTuan0810)
